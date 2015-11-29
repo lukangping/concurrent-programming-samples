@@ -1,4 +1,4 @@
-package io.concurrent.programming;
+package io.concurrent.programming.semaphore;
 
 /**
  * Created by roger.lu on 15/11/28.

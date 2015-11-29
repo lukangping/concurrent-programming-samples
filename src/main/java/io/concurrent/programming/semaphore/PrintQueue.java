@@ -1,4 +1,4 @@
-package io.concurrent.programming;
+package io.concurrent.programming.semaphore;
 
 import java.util.concurrent.Semaphore;
 
